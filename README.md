@@ -1,2 +1,2 @@
 # Filtros de imagenes
-Filtros de imagenes implemensados en lenguaje ensablador, utilizando un framework implementado en C y test hechos en python
+Filtros de imagenes implementados en ASM, utilizando un framework implementado en C y test hechos en python
